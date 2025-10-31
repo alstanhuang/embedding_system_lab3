@@ -1,4 +1,5 @@
 Basic Problem(85 points):
+
 Write a Python BLE program (BLE Central) in a Linux host (Raspberry Pi 3) to communicate with a test app, say BLE Tool,  in an Android phone.
 
 Your BLE program is required to demo some CCCD setting, such as setting the CCCD value of your App at the Android phone to 0x0002. 
